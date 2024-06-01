@@ -1,0 +1,15 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is your favorite color?",
+        "answers": ["Blue", "Green"]
+      },
+      {
+        "id": 2,
+        "question": "How many siblings do you have?",
+        "answers": ["None", "One"]
+      }
+    ]
+  }
+  
